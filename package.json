@@ -1,0 +1,31 @@
+{
+  "name": "expeditadebitis",
+  "version": "1.0.0",
+  "description": "High-level API to libsodium.",
+  "main": "lib/nacl_factory.js",
+  "author": "JeniferLubowitz",
+  "keywords": [
+    "encryption",
+    "high-level",
+    "crypto",
+    "veritatis",
+    "ut"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SammyMertz/expeditadebitis.git"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha --ui exports test"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "bugs": {
+    "url": "https://github.com/SammyMertz/expeditadebitis.git/issues"
+  },
+  "homepage": "https://github.com/SammyMertz/expeditadebitis.git"
+}
